@@ -1,0 +1,33 @@
+{
+  "name": "02_igniting_app",
+  "version": "1.0.0",
+  "description": "this is namste react course",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abu9905/Namaste_React_Js.git"
+  },
+  "keywords": [],
+  "author": "Abu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abu9905/Namaste_React_Js/issues"
+  },
+  "homepage": "https://github.com/Abu9905/Namaste_React_Js#readme",
+  "devDependencies": {
+    "parcel": "^2.14.1"
+  },
+  "dependencies": {
+    "@types/react": "^19.0.12",
+    "@types/react-dom": "^19.0.4",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "browserslist": [
+    "last 2 Chrome versions",
+    "last 2 Firefox versions",
+    "last 2 Edge versions"
+  ]
+}
