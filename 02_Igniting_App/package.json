@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "this is namste react course",
   "scripts": {
-    "start": "parcel index.html"
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "repository": {
     "type": "git",
